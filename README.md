@@ -1,4 +1,4 @@
-<p align="center"> Hi there, I'm Jeanette! </p>
+<p align="center" > Hi there, I'm Jeanette! </p>
 
 <h2 align="center"> Front-end web developer and designer</h2>
 
@@ -20,5 +20,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-LC&show_icons=true&theme=radical)
 
-<h2 align="center">Let's work together!</h2>
+<h2>Let's work together!</h2>
 <a href="https://www.linkedin.com/in/jeanette-lc/?locale=en_US"><img src=./img/linkedin-white.png width=45px> </a>
