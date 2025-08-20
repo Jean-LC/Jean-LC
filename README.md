@@ -14,7 +14,7 @@
 
 <p> Passionate for knowledge and making ideas come true </p>
 
-- I’m currently learning REACT
+- I’m currently learning SQL
 - I’m looking to collaborate on challenging projects
 - Fun fact: I love drawing and painting!
 
